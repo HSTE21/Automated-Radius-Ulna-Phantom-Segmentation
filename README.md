@@ -32,8 +32,8 @@ A high-level comparison of all methods evaluated in this project. All models wer
 | **07**    | **Marker-Controlled Watershed**            | **~0.965** | Optimal anatomical separation.                      |
 | **06**    | **3D Morphological Active Contours**       | **~0.951** | Smooth, regularized boundary surfaces.              |
 | **01**    | **Baseline Discrete 4D Grid Search**       | ~0.890     | Global search baseline.                             |
-| **10**    | **Canny Edge-Based Volume Reconstruction** | ~0.365     | Fast edge-based detection.                          |
 | **08**    | **2D Slice-Wise Regional Active Contours** | ~0.405     | Slice-by-slice regional evolution.                  |
+| **10**    | **Canny Edge-Based Volume Reconstruction** | ~0.364     | Fast edge-based detection.                          |
 | **05**    | **Sauvola Local Adaptive Thresholding**    | ~0.043     | Highly sensitive to local variations.               |
 
 ---
@@ -77,7 +77,6 @@ A critical finding in this project is the impact of **Optimization Scope** on th
 | **08**    | **2D Slice-Wise Regional Active Contours** | **Single 2D Slice** | **0.4056**              | **~0.20** (Est.)       | ~0.20      |
 | **09**    | **Diffusion-Based Random Walker**          | **Single 2D Slice** | **0.9709**              | **~0.52** (Est.)       | ~0.45      |
 | **10**    | **Canny Edge-Based Volume Reconstruction** | **Single 2D Slice** | **0.3647**              | **~0.34** (Est.)       | ~0.02      |
-
 ### Key Observations:
 
 - **Valid 3D Generalization (Iterations 03-07):** These results are the **"Gold Standard"** of this project. Optimized on the 3D ROI with Z-exclusion, they demonstrate near-perfect segmentation within the forearm.
