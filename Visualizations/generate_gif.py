@@ -32,10 +32,7 @@ if __name__ == "__main__":
     best_mask_path = os.path.join(base_dir, "Iteration 03 - ROI-Restricted Precision Tuning/Run 6/final_bone_mask_optuna_optimized.nii")
     print(f"Loading mask from {best_mask_path}...")
     mask_img = nib.load(best_mask_path)
-    mask_data = mask_img.get_fdata() # This is likely (z, y, x) or (x, y, z)
-    
-    # In the project's scripts, NIfTI was saved from (z, y, x) volume
-    # Let's ensure alignment. If mask_data was saved as (z, y, x), it stays (z, y, x).
+    mask_data = mask_img.get_fdata()
     
     # Normalization of MRI
     mri_vol = (mri_vol - np.min(mri_vol)) / (np.max(mri_vol) - np.min(mri_vol))
@@ -43,12 +40,7 @@ if __name__ == "__main__":
     output_gif = os.path.join(output_dir, "segmentation_scroller.gif")
     frames = []
     
-    # Correct orientation check: 
-    # Usually pydicom pixel_array is (rows, cols) -> (y, x).
-    # Matplotlib imshow(slice) displays y as vertical, x as horizontal.
-    
     print("Generating frames (Corrected Orientation)...")
-    # Loop over Z (the first dimension now)
     for z in range(1, mri_vol.shape[0] - 1):
         fig, ax = plt.subplots(figsize=(6, 6), dpi=100)
         
@@ -72,6 +64,7 @@ if __name__ == "__main__":
         frames.append(image[:, :, :3]) 
         plt.close(fig)
         
-    print(f"Saving GIF to {output_gif}...")
-    imageio.mimsave(output_gif, frames, duration=0.1)
+    print(f"Saving GIF to {output_gif} (with infinite loop)...")
+    # Set loop=0 for infinite repeat
+    imageio.mimsave(output_gif, frames, duration=0.1, loop=0)
     print("Done!")
