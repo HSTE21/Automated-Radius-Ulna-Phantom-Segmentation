@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Top 10 Parameter Configurations from 84-point Grid Search}
+\label{tab:grid_search_top}
+\begin{tabular}{rrrrrr}
+\toprule
+T_low & T_high & Radius & Top_N & Dice & Hausdorff \\
+\midrule
+0 & 90 & 1 & 2 & 0.8900 & 32.0000 \\
+0 & 85 & 1 & 2 & 0.8898 & 32.0000 \\
+0 & 90 & 1 & 3 & 0.8896 & 32.0000 \\
+0 & 85 & 1 & 3 & 0.8896 & 32.0000 \\
+0 & 80 & 1 & 2 & 0.8895 & 32.0000 \\
+0 & 80 & 2 & 2 & 0.8895 & 32.0000 \\
+0 & 80 & 1 & 3 & 0.8895 & 32.0000 \\
+0 & 80 & 2 & 3 & 0.8891 & 32.0000 \\
+0 & 95 & 1 & 2 & 0.8886 & 32.0000 \\
+0 & 95 & 1 & 3 & 0.8884 & 32.0000 \\
+\bottomrule
+\end{tabular}
+\end{table}

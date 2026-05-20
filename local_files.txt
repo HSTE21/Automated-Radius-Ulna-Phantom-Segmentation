@@ -1,0 +1,209 @@
+.
+./Iteration 02 - Automated Bayesian Optimization (TPE)
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 2
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 2/optuna_results_forearm.csv
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 2/final_segmentation_optuna.png
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 2/top_optuna_results_latex.txt
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 2/final_segmentation_forearm.py
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 2/final_bone_mask_optuna_optimized.nii
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 2/optuna_search_forearm.py
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 2/top_optuna_results_forearm.csv
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 1
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 1/optuna_results_forearm.csv
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 1/final_segmentation_optuna.png
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 1/top_optuna_results_latex.txt
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 1/final_segmentation_forearm.py
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 1/final_bone_mask_optuna_optimized.nii
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 1/optuna_search_forearm.py
+./Iteration 02 - Automated Bayesian Optimization (TPE)/run 1/top_optuna_results_forearm.csv
+./Iteration 06 - 3D Morphological Active Contours
+./Iteration 06 - 3D Morphological Active Contours/final_segmentation_cv.png
+./Iteration 06 - 3D Morphological Active Contours/optuna_search_cv.py
+./Iteration 06 - 3D Morphological Active Contours/final_bone_mask_cv.nii
+./Iteration 06 - 3D Morphological Active Contours/top_optuna_results_latex.txt
+./Iteration 06 - 3D Morphological Active Contours/optuna_results_cv.csv
+./Iteration 06 - 3D Morphological Active Contours/final_segmentation_cv.py
+./Iteration 06 - 3D Morphological Active Contours/top_optuna_results_cv.csv
+./Iteration 01 - Baseline Discrete 4D Grid Search
+./Iteration 01 - Baseline Discrete 4D Grid Search/top_optuna_results_latex.txt
+./Iteration 01 - Baseline Discrete 4D Grid Search/optuna_results_grid.csv
+./Iteration 01 - Baseline Discrete 4D Grid Search/final_segmentation_grid.png
+./Iteration 01 - Baseline Discrete 4D Grid Search/final_bone_mask_grid_optimized.nii
+./Iteration 01 - Baseline Discrete 4D Grid Search/grid_search.py
+./Iteration 01 - Baseline Discrete 4D Grid Search/final_segmentation_grid.py
+./Iteration 01 - Baseline Discrete 4D Grid Search/top_optuna_results_grid.csv
+./LICENSE
+./environment.yml
+./README.md
+./Iteration 10 - Canny Edge-Based Volume Reconstruction
+./Iteration 10 - Canny Edge-Based Volume Reconstruction/top_optuna_results_latex.txt
+./Iteration 10 - Canny Edge-Based Volume Reconstruction/top_optuna_results_canny.csv
+./Iteration 10 - Canny Edge-Based Volume Reconstruction/final_segmentation_canny.png
+./Iteration 10 - Canny Edge-Based Volume Reconstruction/final_segmentation_canny.py
+./Iteration 10 - Canny Edge-Based Volume Reconstruction/optuna_search_canny.py
+./Iteration 10 - Canny Edge-Based Volume Reconstruction/optuna_results_canny.csv
+./Iteration 10 - Canny Edge-Based Volume Reconstruction/final_bone_mask_canny.nii
+./Iteration 07 - Marker-Controlled Watershed
+./Iteration 07 - Marker-Controlled Watershed/optuna_results_watershed.csv
+./Iteration 07 - Marker-Controlled Watershed/top_optuna_results_watershed.csv
+./Iteration 07 - Marker-Controlled Watershed/optuna_search_watershed.py
+./Iteration 07 - Marker-Controlled Watershed/final_segmentation_watershed.py
+./Iteration 07 - Marker-Controlled Watershed/final_segmentation_watershed.png
+./Iteration 07 - Marker-Controlled Watershed/final_bone_mask_watershed.nii
+./Visualizations
+./Visualizations/segmentation_scroller.gif
+./Visualizations/generate_gif.py
+./local_files.txt
+./Iteration 08 - 2D Slice-Wise Regional Active Contours
+./Iteration 08 - 2D Slice-Wise Regional Active Contours/optuna_search_cv_standard.py
+./Iteration 08 - 2D Slice-Wise Regional Active Contours/top_optuna_results_latex.txt
+./Iteration 08 - 2D Slice-Wise Regional Active Contours/optuna_results_cv_standard.csv
+./Iteration 08 - 2D Slice-Wise Regional Active Contours/top_optuna_results_cv_standard.csv
+./Iteration 08 - 2D Slice-Wise Regional Active Contours/final_bone_mask_cv_standard.nii
+./Iteration 08 - 2D Slice-Wise Regional Active Contours/final_segmentation_cv_standard.png
+./Iteration 08 - 2D Slice-Wise Regional Active Contours/final_segmentation_cv_standard.py
+./Iteration 03 - ROI-Restricted Precision Tuning
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 3
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 3/final_segmentation_optuna.png
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 3/top_optuna_results_latex.txt
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 3/top_optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 3/optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 3/final_bone_mask_optuna_optimized.nii
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 3/optuna_search_ROI.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 3/final_segmentation_roi.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 4
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 4/final_segmentation_optuna.png
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 4/top_optuna_results_latex.txt
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 4/top_optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 4/optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 4/final_bone_mask_optuna_optimized.nii
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 4/optuna_search_ROI.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 4/final_segmentation_roi.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 5
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 5/final_segmentation_optuna.png
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 5/top_optuna_results_latex.txt
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 5/top_optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 5/optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 5/final_bone_mask_optuna_optimized.nii
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 5/optuna_search_ROI.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 5/final_segmentation_roi.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 2
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 2/final_segmentation_optuna.png
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 2/top_optuna_results_latex.txt
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 2/top_optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 2/optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 2/final_bone_mask_optuna_optimized.nii
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 2/optuna_search_ROI.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 2/final_segmentation_roi.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 7
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 7/final_segmentation_optuna.png
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 7/top_optuna_results_latex.txt
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 7/top_optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 7/optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 7/final_bone_mask_optuna_optimized.nii
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 7/optuna_search_ROI.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 7/final_segmentation_roi.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 1
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 1/final_segmentation_optuna.png
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 1/top_optuna_results_latex.txt
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 1/top_optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 1/optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 1/final_bone_mask_optuna_optimized.nii
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 1/optuna_search_ROI.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 1/final_segmentation_roi.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 6
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 6/final_segmentation_optuna.png
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 6/top_optuna_results_latex.txt
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 6/top_optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 6/optuna_results_roi.csv
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 6/final_bone_mask_optuna_optimized.nii
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 6/optuna_search_ROI.py
+./Iteration 03 - ROI-Restricted Precision Tuning/Run 6/final_segmentation_roi.py
+./Iteration 05 - Sauvola Local Adaptive Thresholding
+./Iteration 05 - Sauvola Local Adaptive Thresholding/final_bone_mask_local.nii
+./Iteration 05 - Sauvola Local Adaptive Thresholding/optuna_results_local.csv
+./Iteration 05 - Sauvola Local Adaptive Thresholding/top_optuna_results_latex.txt
+./Iteration 05 - Sauvola Local Adaptive Thresholding/optuna_search_local.py
+./Iteration 05 - Sauvola Local Adaptive Thresholding/final_segmentation_local.py
+./Iteration 05 - Sauvola Local Adaptive Thresholding/final_segmentation_local.png
+./Iteration 05 - Sauvola Local Adaptive Thresholding/top_optuna_results_local.csv
+./Skin Segmentation
+./Skin Segmentation/skin_segmentation.py
+./Skin Segmentation/skin_mask.nii
+./Skin Segmentation/skin_segmentation.png
+./Iteration 09 - Diffusion-Based Random Walker
+./Iteration 09 - Diffusion-Based Random Walker/optuna_search_rw.py
+./Iteration 09 - Diffusion-Based Random Walker/top_optuna_results_latex.txt
+./Iteration 09 - Diffusion-Based Random Walker/top_optuna_results_rw.csv
+./Iteration 09 - Diffusion-Based Random Walker/final_segmentation_rw.png
+./Iteration 09 - Diffusion-Based Random Walker/final_segmentation_rw.py
+./Iteration 09 - Diffusion-Based Random Walker/final_bone_mask_rw.nii
+./Iteration 09 - Diffusion-Based Random Walker/optuna_results_rw.csv
+./Iteration 04 - Multi-Otsu Statistical Thresholding
+./Iteration 04 - Multi-Otsu Statistical Thresholding/final_bone_mask_multiotsu.nii
+./Iteration 04 - Multi-Otsu Statistical Thresholding/optuna_search_multiotsu.py
+./Iteration 04 - Multi-Otsu Statistical Thresholding/final_segmentation_multiotsu.png
+./Iteration 04 - Multi-Otsu Statistical Thresholding/final_segmentation_multiotsu.py
+./Iteration 04 - Multi-Otsu Statistical Thresholding/top_optuna_results_latex.txt
+./Iteration 04 - Multi-Otsu Statistical Thresholding/top_optuna_results_multiotsu.csv
+./Iteration 04 - Multi-Otsu Statistical Thresholding/optuna_results_multiotsu.csv
+./MRI
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-22-2145jz.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-56-12ty5zm.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-59-1akos2l.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-41-15fl2nv.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-31-1x3u252.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-73-bcoibx.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-47-5l82vo.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-68-arr6bb.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-48-1gousf0.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-57-5ihwc9.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-52-1a1kv9g.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-37-1n07fh2.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-23-1paflg4.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-55-1yzww9q.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-36-1hkum4v.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-33-1e47673.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-61-yn4jyv.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-60-1mr6at2.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-35-9r4wia.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-21-11empiv.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-70-xqkti3.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-62-m6k1ei.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-39-49m5y0.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-34-sutdw1.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-54-119lb0m.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-67-2cxwe1.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-38-14p1o27.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-46-n9b2fq.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-66-h0j6gm.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-65-6f52kw.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-44-18ahkwe.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-29-1azgxli.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-64-13spxf5.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-20-rmbjva.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-71-1tzo1sr.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-63-cq4if5.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-53-twteeu.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-40-d9vd75.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-50-12d59fy.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-42-1u3oqvl.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-51-pb33rg.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-18-v8vn6o.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-19-1mo5bg1.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-72-v0l6pd.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-25-1vvj0p2.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-24-dszylw.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-58-gl7yj3.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-26-74yiqn.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-30-1tuj6qo.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-27-16tg6ht.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-43-119ptoc.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-69-34se9u.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-49-1mj3wof.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-32-1t52pzx.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-45-bs4zhr.dcm
+./MRI/1.3.12.2.1107.5.2.18.152379.30000024101111102115000000001-5-28-1bt8thl.dcm
+./bone_mask.nii
+./remote_files.txt
+./run_all_iterations.py

@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Top 10 parameter configurations for local thresholding}
+\label{tab:local_top}
+\begin{tabular}{rrrlrrrrr}
+\toprule
+trial & window_size & k & polarity & radius_closing & radius_opening & dice & hausdorff & score \\
+\midrule
+200 & 9 & 0.0844 & low & 5 & 1 & 0.0435 & 48.1248 & -0.0046 \\
+263 & 37 & 0.0952 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+273 & 35 & 0.0672 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+272 & 37 & 0.0707 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+271 & 35 & 0.0646 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+270 & 37 & 0.0724 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+269 & 37 & 0.0959 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+268 & 37 & 0.0637 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+267 & 37 & 0.1639 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+266 & 37 & 0.0942 & low & 2 & 2 & 0.0435 & 48.1248 & -0.0046 \\
+\bottomrule
+\end{tabular}
+\end{table}

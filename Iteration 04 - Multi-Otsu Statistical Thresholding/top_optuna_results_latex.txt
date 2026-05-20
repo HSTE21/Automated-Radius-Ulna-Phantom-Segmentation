@@ -1,0 +1,20 @@
+\begin{table}
+\caption{Top 10 configurations for Multi-Otsu Segmentation}
+\label{tab:multiotsu_top}
+\begin{tabular}{rrrrrrrrr}
+\toprule
+trial & n_classes & c_start & c_end & radius_closing & radius_opening & dice & hausdorff & score \\
+\midrule
+85 & 4 & 0 & 0 & 1 & 1 & 0.9766 & 26.0000 & 0.9506 \\
+112 & 4 & 0 & 0 & 3 & 1 & 0.9681 & 26.0000 & 0.9421 \\
+159 & 5 & 0 & 0 & 3 & 1 & 0.9659 & 26.0000 & 0.9399 \\
+157 & 5 & 0 & 0 & 3 & 1 & 0.9659 & 26.0000 & 0.9399 \\
+158 & 5 & 0 & 0 & 3 & 1 & 0.9659 & 26.0000 & 0.9399 \\
+399 & 5 & 0 & 0 & 4 & 1 & 0.8825 & 26.0000 & 0.8565 \\
+352 & 5 & 0 & 0 & 4 & 1 & 0.8825 & 26.0000 & 0.8565 \\
+353 & 5 & 0 & 0 & 4 & 1 & 0.8825 & 26.0000 & 0.8565 \\
+354 & 5 & 0 & 0 & 4 & 1 & 0.8825 & 26.0000 & 0.8565 \\
+355 & 5 & 0 & 0 & 4 & 1 & 0.8825 & 26.0000 & 0.8565 \\
+\bottomrule
+\end{tabular}
+\end{table}

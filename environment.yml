@@ -1,0 +1,18 @@
+name: image_reconstruction_visualisation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.14
+  - numpy=1.26.4
+  - pandas=2.3.3
+  - scikit-image=0.26.0
+  - scipy=1.16.2
+  - matplotlib=3.10.7
+  - tqdm=4.67.1
+  - jinja2=3.1.6
+  - pip
+  - pip:
+      - optuna==4.8.0
+      - nibabel==5.3.3
+      - pydicom==3.0.2
